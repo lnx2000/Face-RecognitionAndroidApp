@@ -1,1 +1,1 @@
-# FaceDetectionAndroidApp
+# FaceRecognitionAndroidApp
